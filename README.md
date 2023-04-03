@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://www.gordonstevens.ca/assets/images/gordon-stevens-qrcode-linkedin.svg" align="center" height="300" width="300">
 </div>  
-## <div align="center">Gordon Stevens</div>  
-### <div align="center">MSc Business ░ Supply Chain ░ Analytics and AI ░ Software ░ Drone Pilot</div>  
+<div align="center">Gordon Stevens</div>  
+<div align="center">MSc Business ░ Supply Chain ░ Analytics and AI ░ Software ░ Drone Pilot</div>  
 <br>  
-## Lorem Ipsum, famous text circa 1500AD
+<div align="left">Lorem Ipsum, famous text circa 1500AD</div>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum purus mauris, bibendum at blandit eu, iaculis a velit. Nunc consequat vulputate purus sodales interdum. Praesent ut porta nibh. Maecenas tristique at justo ac ultrices. Suspendisse potenti. Maecenas scelerisque sed mauris at semper. Integer vel augue porta, tempus nisl ac, aliquet elit.
 
 Pellentesque dictum sapien vel mi malesuada, et sollicitudin tellus pellentesque. In dui metus, mollis sed orci vel, rhoncus euismod enim. Mauris dapibus tristique lectus, eu elementum eros malesuada non. Etiam pharetra risus id nisl laoreet consectetur. In dictum vulputate fermentum. Nunc felis magna, pretium id ante non, malesuada ornare enim. Etiam rutrum pretium malesuada. Suspendisse et leo porta, rutrum enim id, tristique ante. Nulla accumsan tristique fermentum. Vivamus pharetra, dolor id vehicula pellentesque, tellus mauris rhoncus erat, sed ultrices nisl mauris non lacus. Morbi rhoncus purus nisl, tincidunt venenatis nisl dignissim sed. Morbi eu dapibus nisl, a sagittis sem. Praesent ultricies pretium turpis vel congue. Sed sodales neque vitae aliquam interdum. Etiam id lectus eget lectus rutrum euismod non quis odio. Nullam mollis faucibus ipsum at fermentum.
