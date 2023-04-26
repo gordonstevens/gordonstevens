@@ -28,6 +28,7 @@ GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordon
 - Business: International Business Management, Supply Chain Management (Operations/Logistics), Business Administration, Leadership, and Management. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision
 <br>
 <div align="left">Post Secondary Education</div>
+<p>
 - Centennial College: Software Engineering Technology - Artificial Intelligence (To be awarded: Summer 2023)
 - Robert Gordon University: MSc Business Leadership and Management (To be awarded Summer: 2023)
 - Altex Academy: Canadian Advanced Drone Pilot
@@ -38,6 +39,7 @@ GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordon
 - Cape Breton University: 50% of coursework in MBA Community Economic Development program
 - Centennial College: Software Engineering Technician
 - Loyalist College: Chemical Engineering Technologist
+</p>
 <br>
 <div align="left">Hobbies</div>
 - Archery
