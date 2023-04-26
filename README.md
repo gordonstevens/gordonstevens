@@ -19,9 +19,37 @@ Here are some ideas to get you started:
 <div align="center">MSc Business ░ Supply Chain ░ Analytics and AI ░ Software ░ Drone Pilot</div>  
 <br>
 GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a> for data science project I want to share.<br>
-<div align="left">Lorem Ipsum, famous text circa 1500AD</div>
-For the bean counters among us, the mandatory activity box from GitHub is not a reliable indicator of activities. Not everyone only uses GitHub, we also use Bitbucket and GitLab, and we do not usually have the luxury of making everything opensource. So here is some Lorem Ipsum to push it down.
 <br>
+<div align="left">Areas of Effectiveness</div>
+- Software Development, Web Development, Artificial Intelligence. Yes, I do: E-mail marketing campaigns, WordPress, PHP, server management, virtualisation, SEO/SEM, copywriting, Spark, TensorFlow, Flask, and much more!
+- Chemical Engeering Technology: Inorganic chemistry, organic chemistry, instrumentation (HPLC, etc.), reactor analytics, specialised in super critical CO2 extraction technology (extraction of catnip essentials oils from catnip plants)
+- Genetics Research: Researching methods to disrupt a specific water-bourne pathogen in rain water in Africa
+- Drone Pilot: I fly unmanned aerial vehicles otherwise known as drones. Everything from holiday videos to roof inspections. I fly DJI drones
+- Business: International Business Management, Supply Chain Management (Operations/Logistics), Business Administration, Leadership, and Management. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision
+<br>
+<div align="left">Post Secondary Education</div>
+- Centennial College: Software Engineering Technology - Artificial Intelligence (To be awarded: Summer 2023)
+- Robert Gordon University: MSc Business Leadership and Management (To be awarded Summer: 2023)
+- Altex Academy: Canadian Advanced Drone Pilot
+- Seneca College: Import/Export Business Certificate
+- Seneca College: International Trade Specialist Certificate
+- Seneca College: Supply Chain Management - Global Logistics Graduate Certificate
+- Seneca College: International Business Management Graduate Certificate
+- Cape Breton University: 50% of coursework in MBA Community Economic Development program
+- Centennial College: Software Engineering Technician
+- Loyalist College: Chemical Engineering Technologist
+<br>
+<div align="left">Hobbies</div>
+- Archery
+- Canoeing and kayaking
+- Camping
+- Amateur Radio (also known as Ham Radio)
+- Coffee and tea, international food (I like to try a variety)
+- Playing with SoC computers like raspberry pis and arduinos
+<br>
+<div align="left">Activity</div>
+For the bean counters among us, the mandatory activity box from GitHub is not a reliable indicator of activities. Not everyone only uses GitHub, we also use Bitbucket and GitLab, and we do not usually have the luxury of making everything opensource. So here is some Lorem Ipsum to push it down.
+<br><br><br>
 <div align="left">Lorem Ipsum, famous text circa 1500AD</div>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum purus mauris, bibendum at blandit eu, iaculis a velit. Nunc consequat vulputate purus sodales interdum. Praesent ut porta nibh. Maecenas tristique at justo ac ultrices. Suspendisse potenti. Maecenas scelerisque sed mauris at semper. Integer vel augue porta, tempus nisl ac, aliquet elit.
 
