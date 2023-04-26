@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <img src="https://www.gordonstevens.ca/assets/images/gordon-stevens-qrcode-linkedin.svg" align="center" height="300" width="300">
-</div>  
+</div>
 <div align="center">Gordon Stevens</div>  
 <div align="center">MSc Business ░ Supply Chain ░ Analytics and AI ░ Software ░ Drone Pilot</div>  
-<br>  
+<br>
+GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a> for data science project I want to share.<br>
+<div align="left">Lorem Ipsum, famous text circa 1500AD</div>
+For the bean counters among us, the mandatory activity box from GitHub is not a reliable indicator of activities. Not everyone only uses GitHub, we also use Bitbucket and GitLab, and we do not usually have the luxury of making everything opensource. So here is some Lorem Ipsum to push it down.
+<br>
 <div align="left">Lorem Ipsum, famous text circa 1500AD</div>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum purus mauris, bibendum at blandit eu, iaculis a velit. Nunc consequat vulputate purus sodales interdum. Praesent ut porta nibh. Maecenas tristique at justo ac ultrices. Suspendisse potenti. Maecenas scelerisque sed mauris at semper. Integer vel augue porta, tempus nisl ac, aliquet elit.
 
