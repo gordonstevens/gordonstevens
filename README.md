@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://www.gordonstevens.ca/assets/images/gordon-stevens-qrcode-linkedin.svg" align="center" height="300" width="300">
 </div>
 <div align="center">Gordon Stevens</div>  
-<div align="center">MSc Business ░ Supply Chain ░ Analytics and AI ░ Software ░ Drone Pilot</div>  
+<div align="center">MSc Business⭕Supply Chain⭕Software, Web, Blockchain, Analytics, and AI Developer⭕ Canadian Drone Pilot</div>  
 <br>
 GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a> for data science project I want to share.<br>
 <br>
