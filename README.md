@@ -28,8 +28,8 @@ GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordon
 - Business: International Business Management, Supply Chain Management (Operations/Logistics), Business Administration, Leadership, and Management. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision<br>
 <br>
 <div align="left">Post Secondary Education</div>
-- Centennial College: Software Engineering Technology - Artificial Intelligence (To be awarded: Summer 2023)<br>
-- Robert Gordon University: MSc Business Leadership and Management (To be awarded Summer: 2023)<br>
+- Centennial College: Software Engineering Technology - Artificial Intelligence<br>
+- Robert Gordon University: MSc Business Leadership and Management<br>
 - Altex Academy: Canadian Advanced Drone Pilot<br>
 - Seneca College: Import/Export Business Certificate<br>
 - Seneca College: International Trade Specialist Certificate<br>
