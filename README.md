@@ -545,7 +545,3 @@ Nam ipsum ante, congue a imperdiet sed, dictum eu ligula. Pellentesque massa nis
 Meow quis tristique arcu. Pellentesque efficitur tincidunt felis vel ornare. Quisque vehicula, tellus et tristique pharetra, quam nunc gravida nisi, at imperdiet tellus quam non nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus risus nisl, in sodales sapien lacinia sit amet. Nam in ex mauris. Mauris semper facilisis augue, eget elementum neque malesuada vestibulum. Fusce varius cursus mattis. Curabitur nulla risus, venenatis a lectus sit amet, ullamcorper molestie tortor.
 
 Quisque eleifend lacus dolor, at efficitur dolor volutpat eget. Nulla accumsan mi nulla, vel porttitor nisi volutpat non. Praesent convallis malesuada augue, vel scelerisque arcu semper eu. Vestibulum dolor justo, bibendum sed consequat eget, auctor blandit lacus. Curabitur mollis dui in dolor semper, et tempor tellus faucibus. Curabitur eget nisl sed massa dapibus laoreet interdum at ex. Aenean tristique pharetra augue, eu pellentesque justo maximus vel. Mauris sapien sem, elementum non urna eget, rhoncus mollis arcu. Proin semper sem eget lorem commodo scelerisque. Nullam pulvinar felis metus, non rutrum leo blandit vel.
-
-<style>
-  #user-profile-frame { display: none !important }
-</style>
