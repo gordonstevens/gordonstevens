@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div align="center">
 <img src="https://www.gordonstevens.ca/assets/images/gordon-stevens-qrcode-linkedin.svg" align="center" height="300" width="300">
 </div>
+-->
 <div align="center">Gordon Stevens</div>  
 <div align="center">MSc Business⭕Supply Chain⭕Software, Web, Blockchain, Analytics, and AI Developer⭕Canadian Drone Pilot</div>  
 <br>
