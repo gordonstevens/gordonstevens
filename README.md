@@ -54,6 +54,9 @@ For the bean counters among us, the mandatory activity box from GitHub is not a 
 <br><br><br>
 <div align="left">Lorem Ipsum, famous text circa 1500AD</div>
 <a href="lorem-ipsum.md">Lorem Ipsum Text</a>
+
+<br><a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki") on GitHub</a>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum purus mauris, bibendum at blandit eu, iaculis a velit. Nunc consequat vulputate purus sodales interdum. Praesent ut porta nibh. Maecenas tristique at justo ac ultrices. Suspendisse potenti. Maecenas scelerisque sed mauris at semper. Integer vel augue porta, tempus nisl ac, aliquet elit.
 
 Pellentesque dictum sapien vel mi malesuada, et sollicitudin tellus pellentesque. In dui metus, mollis sed orci vel, rhoncus euismod enim. Mauris dapibus tristique lectus, eu elementum eros malesuada non. Etiam pharetra risus id nisl laoreet consectetur. In dictum vulputate fermentum. Nunc felis magna, pretium id ante non, malesuada ornare enim. Etiam rutrum pretium malesuada. Suspendisse et leo porta, rutrum enim id, tristique ante. Nulla accumsan tristique fermentum. Vivamus pharetra, dolor id vehicula pellentesque, tellus mauris rhoncus erat, sed ultrices nisl mauris non lacus. Morbi rhoncus purus nisl, tincidunt venenatis nisl dignissim sed. Morbi eu dapibus nisl, a sagittis sem. Praesent ultricies pretium turpis vel congue. Sed sodales neque vitae aliquam interdum. Etiam id lectus eget lectus rutrum euismod non quis odio. Nullam mollis faucibus ipsum at fermentum.
