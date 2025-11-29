@@ -29,7 +29,7 @@ GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordon
 - Drone Pilot: I fly unmanned aerial vehicles otherwise known as drones. Everything from holiday videos to roof inspections. I fly DJI photography drones in real-life, and use simulators for FPV drones (First Person View)<br>
 - Business: International Business Management, Supply Chain Management (Operations/Logistics), Business Administration, Leadership, and Management. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision<br>
 <br>
-<div align="left">Post Secondary Education</div>
+<div align="left" style="font-weight: bold; text-decoration: underline;">Post Secondary Education</div>
 - Centennial College: Software Engineering Technology - Artificial Intelligence<br>
 - Robert Gordon University: MSc Business Leadership and Management<br>
 - Altex Academy: Canadian Advanced Drone Pilot<br>
@@ -41,7 +41,7 @@ GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordon
 - Centennial College: Software Engineering Technician<br>
 - Loyalist College: Chemical Engineering Technologist<br>
 <br>
-<div align="left">Hobbies</div>
+<div align="left" style="font-weight: bold; text-decoration: underline;">Hobbies</div>
 - Archery<br>
 - Canoeing and kayaking<br>
 - Camping<br>
@@ -49,11 +49,10 @@ GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordon
 - Coffee and tea, international food (I like to try a variety)<br>
 - Playing with SoC computers like raspberry pis and arduinos<br>
 <br>
-<div align="left">Activity</div>
+<div align="left" style="font-weight: bold; text-decoration: underline;">Activity</div>
 For the bean counters among us, the mandatory activity box from GitHub is not a reliable indicator of activities. Not everyone only uses GitHub, we also use Bitbucket and GitLab, and we do not usually have the luxury of making everything opensource. So here is some Lorem Ipsum to push it down.
 <br><br><br>
 <div align="left">Lorem Ipsum, famous text circa 1500AD</div>
-<a href="lorem-ipsum.md">Lorem Ipsum Text</a>
 
 <br><a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki") on GitHub</a>
 
