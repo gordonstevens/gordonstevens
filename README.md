@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 </div>
 -->
 <div align="center">Gordon Stevens</div>  
-<div align="center">MSc Business⭕Supply Chain⭕Software, Web, Blockchain, Analytics, and AI Developer⭕Canadian Drone Pilot</div>  
+<div align="center">MSc Business⭕Supply Chain⭕Software, Web, Analytics, and AI Developer⭕Canadian Drone Pilot</div>  
 <br>
 <hr>
 <br>
-((( <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> . <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a>&nbsp;(Data science) . <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a> )))<br>
+<div align="center">
+  ((( <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> . <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a>&nbsp;(Data science) . <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a> )))
+</div>
+  <br>
 <br>
 <div align="left">Areas of Effectiveness</div>
 - Software Development, Web Development, Artificial Intelligence. Yes, I do: E-mail marketing campaigns, WordPress, PHP, server management, virtualisation, SEO/SEM, copywriting, Spark, TensorFlow, Flask, and much more!<br>
