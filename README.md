@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <div align="center">Gordon Stevens</div>  
 <div align="center">MSc Business⭕Supply Chain⭕Software, Web, Blockchain, Analytics, and AI Developer⭕Canadian Drone Pilot</div>  
 <br>
-GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a> for data science project I want to share.<br>
+<hr>
+<br>
+((( <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> . <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a>&nbsp;(Data science) . <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a> )))<br>
 <br>
 <div align="left">Areas of Effectiveness</div>
 - Software Development, Web Development, Artificial Intelligence. Yes, I do: E-mail marketing campaigns, WordPress, PHP, server management, virtualisation, SEO/SEM, copywriting, Spark, TensorFlow, Flask, and much more!<br>
@@ -53,8 +55,6 @@ GitHub for code projects I want to share, <a href="https://www.kaggle.com/gordon
 For the bean counters among us, the mandatory activity box from GitHub is not a reliable indicator of activities. Not everyone only uses GitHub, we also use Bitbucket and GitLab, and we do not usually have the luxury of making everything opensource. So here is some Lorem Ipsum to push it down.
 <br><br><br>
 <div align="left">Lorem Ipsum, famous text circa 1500AD</div>
-
-<br><a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki") on GitHub</a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum purus mauris, bibendum at blandit eu, iaculis a velit. Nunc consequat vulputate purus sodales interdum. Praesent ut porta nibh. Maecenas tristique at justo ac ultrices. Suspendisse potenti. Maecenas scelerisque sed mauris at semper. Integer vel augue porta, tempus nisl ac, aliquet elit.
 
