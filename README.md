@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-<div align="center">
+<div align="left">
   General Information: <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> · <a href="https://www.gordonstevens.ca/resources/" target="_blank">gordonstevens.ca Resources</a> · <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a><br>
   Affiliation: <a href="https://invitation.app/@gordonstevens" target="_blank">Invitation App</a> · <a href="https://orcid.org/0000-0002-9976-9236" target="_blank">ORCiD</a> · <a href="https://keybase.io/gordonstevens" target="_blank">Keybase.IO</a><br>
   Data Science: <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a><br>
@@ -30,10 +30,7 @@ Here are some ideas to get you started:
   Audio: <a href="https://soundcloud.com/canadacoder" target="_blank">Soundcloud</a> · <a href="https://www.audiotool.com/user/canadacoder" target="_blank">AudioTool</a><br>
   Social Media: <a href="https://www.linkedin.com/in/gordonstevens" target="_blank">LinkedIn</a> · <a href="https://www.instagram.com/canadacoder/" target="_blank">Instagram</a> · <a href="https://x.com/canadacoder" target="_blank">X</a> · <a href="https://ca.pinterest.com/canadacoder/" target="_blank">Pinterest</a><br>
 </div>
-  <br>
-
-<img src="https://www.gordonstevens.ca/assets/pictures-gordonstevens/gordon-stevens-chaat-n-dosaI-restaurant-brampton-IMG-20191031-WA0011.jpg" style="border-radius: 9px;" alt="Gordon Stevens" />
-
+<br>
 <br>
 <div align="left">Areas of Effectiveness</div>
 - Software Development, Web Development, Artificial Intelligence. Yes, I do: E-mail marketing campaigns, WordPress, PHP, server management, virtualisation, SEO/SEM, copywriting, Spark, TensorFlow, Flask, and much more!<br>
