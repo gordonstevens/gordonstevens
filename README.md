@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 <div align="left">
   General Information: <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> · <a href="https://www.gordonstevens.ca/resources/" target="_blank">gordonstevens.ca Resources</a> · <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a><br>
-  Affiliation: <a href="https://invitation.app/@gordonstevens" target="_blank">Invitation App</a> · <a href="https://orcid.org/0000-0002-9976-9236" target="_blank">ORCiD</a> · <a href="https://keybase.io/gordonstevens" target="_blank">Keybase.IO</a><br>
+  Affiliation: <a href="https://orcid.org/0000-0002-9976-9236" target="_blank">ORCiD</a> · <a href="https://keybase.io/gordonstevens" target="_blank">Keybase.IO</a><br>
   Data Science: <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a><br>
   UI/UX: <a href="https://dribbble.com/gordonstevens" target="_blank">Dribbble</a> · <a href="https://layers.to/gordonstevens" target="_blank">Layers.TO</a><br>
   Audio: <a href="https://soundcloud.com/canadacoder" target="_blank">Soundcloud</a> · <a href="https://www.audiotool.com/user/canadacoder" target="_blank">AudioTool</a><br>
