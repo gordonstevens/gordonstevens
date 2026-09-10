@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 - Chemical Engeering Technology: Inorganic chemistry, organic chemistry, instrumentation (HPLC, etc.), reactor analytics, specialised in super critical CO2 extraction technology (extraction of catnip essentials oils from catnip plants)<br>
 - Genetics Research: Researching methods to disrupt a specific water-bourne pathogen in rain water in Africa<br>
 - Drone Pilot: I fly unmanned aerial vehicles otherwise known as drones. Everything from holiday videos to roof inspections. I fly DJI photography drones in real-life, and use simulators for FPV drones (First Person View)<br>
-- Business: International Business Management, Supply Chain Management (Operations/Logistics), Business Administration, Leadership, and Management. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision<br>
+- Business: International Management, Supply Chain Management (Operations/Logistics), Business Administration, Leadership, and Management. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision<br>
 <br>
 <div align="left" style="font-weight: bold; text-decoration: underline;">Post Secondary Education</div>
+- George Brown Polytechnic: Artificial Intelligence for Robotics<br>
 - Centennial College: Software Engineering Technology - Artificial Intelligence<br>
 - Robert Gordon University: MSc Business Leadership and Management<br>
 - Altex Academy: Canadian Advanced Drone Pilot<br>
