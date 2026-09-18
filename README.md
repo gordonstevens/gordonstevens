@@ -23,22 +23,33 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <div align="left">
-  General Information: <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> · <a href="https://www.gordonstevens.ca/resources/" target="_blank">gordonstevens.ca Resources</a> · <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a><br>
-  Affiliation: <a href="https://orcid.org/0000-0002-9976-9236" target="_blank">ORCiD</a> · <a href="https://keybase.io/gordonstevens" target="_blank">Keybase.IO</a><br>
-  Data Science: <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a><br>
-  UI/UX: <a href="https://dribbble.com/gordonstevens" target="_blank">Dribbble</a> · <a href="https://layers.to/gordonstevens" target="_blank">Layers.TO</a><br>
-  Audio: <a href="https://soundcloud.com/canadacoder" target="_blank">Soundcloud</a> · <a href="https://www.audiotool.com/user/canadacoder" target="_blank">AudioTool</a><br>
-  Social Media: <a href="https://www.linkedin.com/in/gordonstevens" target="_blank">LinkedIn</a> · <a href="https://www.instagram.com/canadacoder/" target="_blank">Instagram</a> · <a href="https://x.com/canadacoder" target="_blank">X</a> · <a href="https://ca.pinterest.com/canadacoder/" target="_blank">Pinterest</a><br>
+  <span style="font-weight: bold;">Main</span>: <a href="https://www.gordonstevens.ca/" target="_blank">gordonstevens.ca</a> · <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> · <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a><br>
+  
+  <span style="font-weight: bold;">Identity Management</span>: <a href="https://orcid.org/0000-0002-9976-9236" target="_blank">ORCiD</a> · <a href="https://keybase.io/gordonstevens" target="_blank">Keybase.IO</a><br>
+  
+  <span style="font-weight: bold;">Data Science</span>: <a href="https://www.kaggle.com/gordonstevens" target="_blank">Kaggle</a><br>
+
+  <span style="font-weight: bold;">UI/UX</span>: <a href="https://layers.to/gordonstevens" target="_blank">Layers.TO</a> ·  <a href="https://dribbble.com/gordonstevens" target="_blank">Dribbble</a><br>
+
+  <span style="font-weight: bold;">Audio</span>: <a href="https://soundcloud.com/canadacoder" target="_blank">Soundcloud</a> · <a href="https://www.audiotool.com/user/canadacoder" target="_blank">AudioTool</a><br>
+
+  <span style="font-weight: bold;">Social Media</span>: <a href="https://www.linkedin.com/in/gordonstevens" target="_blank">LinkedIn</a> · <a href="https://www.instagram.com/canadacoder/" target="_blank">Instagram</a> · <a href="https://x.com/canadacoder" target="_blank">X</a> · <a href="https://ca.pinterest.com/canadacoder/" target="_blank">Pinterest</a><br>
 </div>
 <br>
+<hr>
 <br>
-<div align="left">Areas of Effectiveness</div>
-- Software Development, Web Development, Artificial Intelligence. Yes, I do: E-mail marketing campaigns, WordPress, PHP, server management, virtualisation, SEO/SEM, copywriting, Spark, TensorFlow, Flask, and much more!<br>
-- Chemical Engeering Technology: Inorganic chemistry, organic chemistry, instrumentation (HPLC, etc.), reactor analytics, specialised in super critical CO2 extraction technology (extraction of catnip essentials oils from catnip plants)<br>
-- Genetics Research: Researching methods to disrupt a specific water-bourne pathogen in rain water in Africa<br>
-- Drone Pilot: I fly unmanned aerial vehicles otherwise known as drones. Everything from holiday videos to roof inspections. I fly DJI photography drones in real-life, and use simulators for FPV drones (First Person View)<br>
-- Business: International Management, Supply Chain Management (Operations/Logistics), Business Administration, Leadership, and Management. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision<br>
-<br>
+<div align="left" style="font-weight: bold; text-decoration: underline;">Areas of Effectiveness</div>
+<span style="font-weight: bold;">Software Development, Web Development, Artificial Intelligence.</span> Yes, I do: E-mail marketing campaigns, WordPress, PHP, server management, virtualisation, SEO/SEM, copywriting, Spark, TensorFlow, Flask, and much more!<br><br>
+
+<span style="font-weight: bold;">User Interface and User Experience</span>: This is one of my favourite forms of artistic outlet, some people bake artisanal breads, I bake artisanal user interfaces. There is a lot to it, <a href="https://www.fontfabric.com/blog/history-and-evolution-of-typography-fonts-timeline/?srsltid=AU7gw4UHJkmB0lTHpLpnUlzfvZ4-XbNk837Ge1mHvymCsG3fP7jUrQVs" target="_blank">history</a> and <a href="https://www.researchgate.net/publication/383656294_THE_IMPACT_OF_TYPOGRAPHY_IN_GRAPHIC_DESIGN" target="_blank">effective usage</a> of <a href="https://en.wikipedia.org/wiki/Typography" target="_blank">typography</a>, use-cases and user-stories, actually figuring out what is relevant to the user, how the system works behind the button, and so forth. My inner critic really shows when I order coffee from a <a href="https://acrelec.com/about/" target="_blank">Acrelec UI/UX</a> kiosk running on hardware from <a href="https://www.dieboldnixdorf.com/en-us/retail/solutions/in-store/" target="_blank">Diebold Nixdorf</a>+<a href="https://en.pyramid-computer.com/products/kiosks/interactive-kiosks/" target="_blank">Pyramid Computer</a>. While most of what I have created is within proprietary systems, I have put some new work on <a href="https://layers.to/gordonstevens" target="_blank">Layers.TO</a> and <a href="https://dribbble.com/gordonstevens" target="_blank">Dribbble</a>.<br><br>
+
+<span style="font-weight: bold;">Business</span>: <a href="https://www.senecapolytechnic.ca/programs/fulltime/IBS.html" target="_blank">International Management</a>, <a href="https://www.senecapolytechnic.ca/programs/fulltime/SCM.html" target="_blank">Supply Chain Management (Operations/Logistics)</a>, <a href="https://www.rgu.ac.uk/study/courses/pgcert-pgdip-msc-business-leadership-and-management" target="_blank">Business Administration, Leadership, and Management</a>. This ties in well with all of my other business areas as it helps me understand the marketing and how the business works with each decision. My master's thesis focus is helping Small to Medium Enterprises ("SMEs") to use emergent technologies to enhance their business<br><br>
+
+<span style="font-weight: bold;">Chemical Engeering Technology</span>: Inorganic chemistry, organic chemistry, instrumentation (HPLC, etc.), reactor analytics, specialised in super critical CO2 extraction technology (extraction of catnip essentials oils from catnip plants)<br><br>
+
+<span style="font-weight: bold;">Genetics Research</span>: <a href="https://edgell-lab.github.io/" target="_blank">Researching methods</a> to disrupt a specific water-bourne pathogen in rain water in Africa<br><br>
+
+<span style="font-weight: bold;">Drone Pilot</span>: I fly unmanned aerial vehicles otherwise known as drones. Everything from holiday videos to roof inspections. I exclusively fly <a href="https://www.dji.com/" target="_blank">DJI photography drones</a> in real-life, and use simulators like <a href="https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/" target="_blank">LiftOff</a> and <a href="https://www.velocidrone.com/" target="_blank">Velocidrone</a> to fly FPV (First Person View) drones. FPV drones are notoriously difficult to fly and have expensive hardware, therefore using software to emulate FPV for fun is safer and great for experience! <br><br>
 <div align="left" style="font-weight: bold; text-decoration: underline;">Post Secondary Education</div>
 - George Brown Polytechnic: Artificial Intelligence for Robotics<br>
 - Centennial College: Software Engineering Technology - Artificial Intelligence<br>
@@ -58,7 +69,7 @@ Here are some ideas to get you started:
 - Camping<br>
 - Amateur Radio (also known as Ham Radio)<br>
 - Coffee and tea, international food (I like to try a variety)<br>
-- Playing with SoC computers like raspberry pis and arduinos<br>
+- Playing with SoC computers like Raspberry Pis and Arduinos<br>
 <br>
-<div align="left" style="font-weight: bold; text-decoration: underline;">Activity</div>
-For the bean counters among us, the mandatory activity box from GitHub is not a reliable indicator of activities. Not everyone only uses GitHub, we also use Bitbucket and GitLab, and we do not usually have the luxury of making everything opensource.
+<div align="left" style="font-weight: bold; text-decoration: underline;">GitHub Content</div>
+
