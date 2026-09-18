@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <div align="left">
-  <span style="font-weight: bold;">Main</span>: <a href="https://www.gordonstevens.ca/" target="_blank">gordonstevens.ca</a> · <a href="https://github.com/gordonstevens/gordonstevens/wiki">Knowledge Base ("Wiki")</a> · <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a><br>
+  <span style="font-weight: bold;">Main</span>: <a href="https://www.gordonstevens.ca/" target="_blank">gordonstevens.ca</a> · <a href="https://github.com/gordonstevens/gordonstevens/wiki" target="_blank">Knowledge Base ("Wiki")</a> · <a href="https://linktr.ee/gordonstevens" target="_blank">LinkTree</a>
+  
+  <br>
   
   <span style="font-weight: bold;">Identity Management</span>: <a href="https://orcid.org/0000-0002-9976-9236" target="_blank">ORCiD</a> · <a href="https://keybase.io/gordonstevens" target="_blank">Keybase.IO</a><br>
   
@@ -69,7 +71,20 @@ Here are some ideas to get you started:
 - Camping<br>
 - Amateur Radio (also known as Ham Radio)<br>
 - Coffee and tea, international food (I like to try a variety)<br>
+- News reporter blooper reels<br>
 - Playing with SoC computers like Raspberry Pis and Arduinos<br>
 <br>
 <div align="left" style="font-weight: bold; text-decoration: underline;">GitHub Content</div>
-
+Websites: <a href="https://github.com/gordonstevens/website-vipintak" target="_blank">Vipin Tak's personal website</a>, <a href="https://github.com/gordonstevens/recyclehub" target="_blank">RecycleHub</a>.
+<br>
+Artificial Inteligence (AI) and Data Analytics: <a href="https://github.com/gordonstevens/amazon-musical-instruments-ratings-data-analysis" target="_blank">Data Analysis on Amazon musical instruments reviews</a>, <a href="https://github.com/gordonstevens/AI-Deep-Learning-RNN-LSTM-IMDB-Dataset/blob/main/AI-Deep-Learning-RNN-LSTM-IMDB-Dataset.ipynb" target="_blank">Movie reviews from IMDB</a>
+<br>
+User-Interface/User-Experience (UI/UX): <a href="https://github.com/gordonstevens/adhd-skill-tree" target="_blank">ADHD Skill Tree</a>
+<br>
+Useful:<br>
+<a href="https://github.com/gordonstevens/astro-mediaembeddings" target="_blank">Astro Media Embeddings</a> (Embed almost any type of media in an Astro website!)<br>
+<a href="https://github.com/gordonstevens/gemini-bookmark-architect" target="_blank">Gemini Bookmark Architect</a> (Using Google Gemini AI to sort a massive stack of bookmarks (tested on 8000+ bookmarks))<br>
+<a href="https://github.com/gordonstevens/RetroMarks" target="_blank">RetroMarks</a> (Retro-styled bookmark manager for Chromium-based browsers)<br>
+<a href="https://github.com/gordonstevens/markdown-files-stitcher" target="_blank">Markdown files stitcher</a> (Nicely stitch together multiple markdown files into one big markdown file)<br>
+<a href="https://github.com/gordonstevens/html-md-txt-file-convertor" target="_blank">HTML, Markdown, and Text file conversion</a> (convert between the three formats)<br>
+<a href="https://github.com/gordonstevens/regex-html-crawler" target="_blank">Regex HTML Crawler</a> (Crawls local directories or web URLs, searching for a specified regular expression within target files, and output the results to an Excel spreadsheet.)
