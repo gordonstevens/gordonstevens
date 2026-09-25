@@ -87,5 +87,5 @@ Useful:<br>
 <a href="https://github.com/gordonstevens/RetroMarks" target="_blank">RetroMarks</a> (Retro-styled bookmark manager for Chromium-based browsers)<br>
 <a href="https://github.com/gordonstevens/markdown-files-stitcher" target="_blank">Markdown files stitcher</a> (Nicely stitch together multiple markdown files into one big markdown file)<br>
 <a href="https://github.com/gordonstevens/html-md-txt-file-convertor" target="_blank">HTML, Markdown, and Text file conversion</a> (convert between the three formats)<br>
-<a href="https://github.com/gordonstevens/regex-html-crawler" target="_blank">Regex HTML Crawler</a> (Crawls local directories or web URLs, searching for a specified regular expression within target files, and output the results to an Excel spreadsheet.)
+<a href="https://github.com/gordonstevens/regex-html-crawler" target="_blank">Regex HTML Crawler</a> (Crawls local directories or web URLs, searching for a specified regular expression within target files, and output the results to an Excel spreadsheet.)<br>
 <a href="https://github.com/gordonstevens/moldethyst-grey-json-quickedit" target="_blank">Moldethyst-Grey JSON QuickEdit</a> (A nice free in-browser JSON editor.)
